@@ -17,7 +17,7 @@ class Program
             do
             {
                 Console.Write("What is your guess? ");
-                Guessnum = int.Parse(Console.ReadLine());;
+                Guessnum = int.Parse(Console.ReadLine());
                 Guesscount++;
 
                 if(Magicnum > Guessnum)
@@ -27,7 +27,7 @@ class Program
                     Console.WriteLine("Lower");
                 } else
                 {
-                    Console.WriteLine("You guess it!");
+                    Console.WriteLine("You guessed it!");
                     Console.WriteLine($"You guessed {Guesscount} times!");
                 }
             } while (Guessnum != Magicnum);
