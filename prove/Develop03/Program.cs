@@ -1,6 +1,7 @@
 // My attempt at creativity I added a feature that allows you to both randomly hide words as you go
 // or hide words by the index -1 so it's a little easier to understand. So if i wanted to hide
 // the third word is would enter 3,
+// Add the scriptures.txt file to the bin please.
 using System;
 
 class Program

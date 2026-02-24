@@ -1,0 +1,51 @@
+KJV|John|3|16|0|For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+KJV|Genesis|1|1|0|In the beginning God created the heaven and the earth.
+KJV|Psalm|23|1|0|The LORD is my shepherd; I shall not want.
+KJV|Proverbs|3|5|6|Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.
+KJV|Romans|8|28|0|And we know that all things work together for good to them that love God.
+KJV|Philippians|4|13|0|I can do all things through Christ which strengtheneth me.
+KJV|Matthew|5|16|0|Let your light so shine before men, that they may see your good works.
+KJV|Isaiah|41|10|0|Fear thou not; for I am with thee: be not dismayed; for I am thy God.
+KJV|Joshua|1|9|0|Be strong and of a good courage; be not afraid, neither be thou dismayed.
+KJV|1 Corinthians|13|4|0|Charity suffereth long, and is kind; charity envieth not.
+KJV|2 Timothy|1|7|0|For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+KJV|Hebrews|11|1|0|Now faith is the substance of things hoped for, the evidence of things not seen.
+KJV|James|1|5|0|If any of you lack wisdom, let him ask of God.
+KJV|Revelation|3|20|0|Behold, I stand at the door, and knock.
+KJV|Micah|6|8|0|He hath shewed thee, O man, what is good; and what doth the LORD require of thee.
+KJV|Ecclesiastes|3|1|0|To every thing there is a season, and a time to every purpose under the heaven.
+KJV|Colossians|3|23|0|And whatsoever ye do, do it heartily, as to the Lord.
+KJV|Ephesians|6|10|0|Be strong in the Lord, and in the power of his might.
+KJV|Luke|1|37|0|For with God nothing shall be impossible.
+KJV|Mark|12|30|0|And thou shalt love the Lord thy God with all thy heart.
+KJV|1 Peter|5|7|0|Casting all your care upon him; for he careth for you.
+KJV|Galatians|5|22|0|But the fruit of the Spirit is love, joy, peace.
+KJV|Psalm|46|1|0|God is our refuge and strength, a very present help in trouble.
+KJV|Romans|12|2|0|Be not conformed to this world: but be ye transformed by the renewing of your mind.
+KJV|John|14|6|0|Jesus saith unto him, I am the way, the truth, and the life.
+
+Book of Mormon|1 Nephi|3|7|0|I will go and do the things which the Lord hath commanded.
+Book of Mormon|2 Nephi|2|25|0|Men are, that they might have joy.
+Book of Mormon|Mosiah|2|17|0|When ye are in the service of your fellow beings ye are only in the service of your God.
+Book of Mormon|Alma|37|6|0|By small and simple things are great things brought to pass.
+Book of Mormon|Ether|12|27|0|My grace is sufficient for all men that humble themselves before me.
+Book of Mormon|Moroni|10|4|5|Ask God, the Eternal Father, in the name of Christ, if these things are not true.
+Book of Mormon|3 Nephi|11|10|0|Behold, I am Jesus Christ, whom the prophets testified shall come into the world.
+Book of Mormon|Helaman|5|12|0|It is upon the rock of our Redeemer, who is Christ, the Son of God, that ye must build your foundation.
+Book of Mormon|Jacob|2|18|0|Think of your brethren like unto yourselves.
+Book of Mormon|Enos|1|4|0|My soul hungered; and I kneeled down before my Maker.
+Book of Mormon|Mosiah|3|19|0|The natural man is an enemy to God.
+Book of Mormon|Alma|32|21|0|Faith is not to have a perfect knowledge of things.
+Book of Mormon|2 Nephi|9|28|0|To be learned is good if they hearken unto the counsels of God.
+Book of Mormon|Mosiah|4|9|0|Believe in God; believe that he is.
+Book of Mormon|Alma|34|32|0|This life is the time for men to prepare to meet God.
+Book of Mormon|Ether|12|6|0|Ye receive no witness until after the trial of your faith.
+Book of Mormon|3 Nephi|12|16|0|Let your light so shine before this people.
+Book of Mormon|2 Nephi|31|20|0|Press forward with a steadfastness in Christ.
+Book of Mormon|Mosiah|18|9|0|Mourn with those that mourn; yea, and comfort those that stand in need of comfort.
+Book of Mormon|Alma|5|14|0|Have ye spiritually been born of God?
+Book of Mormon|1 Nephi|11|17|0|I know that he loveth his children.
+Book of Mormon|Moroni|7|45|0|Charity suffereth long, and is kind, and envieth not.
+Book of Mormon|2 Nephi|25|26|0|We talk of Christ, we rejoice in Christ, we preach of Christ.
+Book of Mormon|Alma|26|12|0|I will boast of my God.
+Book of Mormon|Mosiah|24|14|0|I will ease the burdens which are put upon your shoulders.
