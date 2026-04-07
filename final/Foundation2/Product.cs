@@ -13,21 +13,6 @@ public class Product
         _quantity = quantity;
     }
 
-    public string GetName()
-    {
-        return _name;
-    }
-
-    public string GetProductId()
-    {
-        return _productId;
-    }
-
-    public double GetPrice()
-    {
-        return _price;
-    }
-
     public double GetTotalCost()
     {
         return _price * _quantity;
